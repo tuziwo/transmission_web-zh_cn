@@ -13,3 +13,7 @@ Synology 的 Transmission 2.84
 volume1 是安装 Transmission 安装时提示安装位置 选择的
 
 替换 web 目录即可使用
+
+
+下载地址
+https://github.com/tuziwo/transmission_web-zh_cn/releases/download/2.84/Transmission-2.84-zh_cn.rar
