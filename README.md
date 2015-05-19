@@ -1,5 +1,7 @@
 # transmission_web-zh_cn
 
+git clone https://github.com/tuziwo/transmission_web-zh_cn.git
+
 transmission-web-zh_cn-2.84
 
 transmission-2.84 WEB控制端汉化
